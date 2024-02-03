@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "name": "pserrano",
+            "money": 1000,
+            "wallet": "rHb9CJAWyB4rj91VRWn96DkukG4bwdtyTh"
+        },
+        {
+            "name": "skomarag",
+            "money": 500,
+            "wallet": "rJkxp2a5nLPBz1DozYjMQN4WUkaquL6Cbf"
+        },
+        {
+            "name": "hkhoshha",
+            "money": 750,
+            "wallet": "rE8SbHCQy7fAcaD5wPnqnBdPzgGv3dEK6f"
+        },
+        {
+            "name": "nvigil",
+            "money": 2000,
+            "wallet": "rLHzPsX6nAs6n8Re6U6gtZw5rbqiyh6zD"
+        },
+        {
+            "name": "test",
+            "money": 1500,
+            "wallet": "r4bSKqW3aSc8At7qY7b4pZ9NYiAn6t3N9a"
+        }
+    ]
+}
